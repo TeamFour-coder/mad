@@ -1,0 +1,11 @@
+https://snapcraft.io/android-studio
+sudo snap install android-studio --classic    
+   Flutter instaaltion -  https://vpsie.com/knowledge-base/how-to-install-flutter-on-ubuntu-22-04/   
+
+same link -https://vpsie.com/knowledge-base/how-to-install-flutter-on-ubuntu-22-04/
+  
+start Android,next 2 time,Accept 2 time,press Finish, goto pluggin add flutter and dart pluggin and then start new flutter project run default add emulator  
+
+Latest:
+https://docs.flutter.dev/get-started/install/linux/android
+https://www.youtube.com/watch?v=mtqTnGAAHw0
